@@ -1,1 +1,35 @@
-https://aulasvirtuales.bue.edu.ar/pluginfile.php/399791/mod_journal/entry/17990/Actividad%20pr%C3%A1ctica%20obligatoria%20N%C2%B01.html
+
+<!DOCTYPE html PUBLIC"//W3C/DID HTML 4.01//EN "http://www.w3.org/TR/html 4/strict.dtd">
+<html>
+<head>
+   <meta content="text/html;    charset=ISO-8859-1" http-equiv="content-type">
+   <title> formulario</title>
+</head>
+<body>
+    <form method="POST"  action="Ingreso.php"   name="prueba">
+        <a><b>
+            Acceso al sistema
+        </a></b>
+        <br>
+        <br>
+        <br>
+    <b>DNI:</b> <input name="DNI" type="TEXT">
+        <br>
+    <br>
+<b>Usuario:</b> <input name="usuario"><br>
+<br>
+<b>Clave:</b> <input name="clave"><br>
+<br>
+<br>
+<br>
+<fieldset>
+    <LEGEND>
+        <b>
+<input value="Ingresar" name="enviar" type="submit">
+</LEGEND>
+</b>
+</fieldset>
+</form>
+</body>
+</html>
+
